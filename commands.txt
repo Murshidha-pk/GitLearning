@@ -9,3 +9,12 @@ git status  =>[list untracked files]
 git add -A   =>[to add all untracked files to staging area]
 
 git commit -m   =>[to commit with descriptive comit meaasage]
+
+git remote add remote_name path   =>[for adding remote repository]
+eg: git remote add origin https://github.com/Murshidha-pk/GitLearning.git
+
+git push remote_name branch
+eg: git push origin master
+
+git branch   =>[list all branches]
+
